@@ -1,2 +1,2 @@
-# Bootstrap_pr-ctica
+# Bootstrap_practica
 practica de bootstrap
